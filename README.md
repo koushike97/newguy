@@ -1,1 +1,2 @@
 # newguy
+wordlife basic thuganomics
